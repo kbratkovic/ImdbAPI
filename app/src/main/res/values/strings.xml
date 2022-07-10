@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebAPI</string>
+    <string name="enter_movie_title">Enter movie title</string>
+    <string name="find_movie">Find movie</string>
+</resources>
